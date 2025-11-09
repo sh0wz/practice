@@ -188,6 +188,28 @@ aqui eu vou botar um texto
 
 ![Texto alternativo](./assets/imagem.jpg)
 
+## Avore do projeto
+
+```bash
+// bloco de código com sintaxe destacada
+ tree -I "node_modules"
+```
+
+`ou assim`
+
+```bash
+// bloco de código com sintaxe destacada
+ tree /F
+```
+
+resultado
+
+practice
+│ readme.md
+│ semana1.js
+└───assets
+imagem.jpg
+
 ## 📎 Licença
 
 Você pode utilizar, adaptar e compartilhar este roteiro livremente, desde que mantenha os créditos.
