@@ -168,11 +168,31 @@ Crie um mini-projeto: **Gerenciador de Tarefas**
 
 ---
 
+## teste bloco de codigo
+
+`código inline`
+
+```js
+// bloco de código com sintaxe destacada
+function ola() {
+  console.log("Olá Mundo");
+}
+```
+
+## Imagem
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0-blue)
+
+aqui eu vou botar um texto
+
+![Texto alternativo](./assets/imagem.jpg)
+
 ## 📎 Licença
 
 Você pode utilizar, adaptar e compartilhar este roteiro livremente, desde que mantenha os créditos.
 
 ---
 
-> **Autor:** Alvaro Frederico  
+> **Autor:** Alvaro Lima
 > **Propósito:** aprimorar boas práticas de desenvolvimento em JavaScript orientado a objetos.
