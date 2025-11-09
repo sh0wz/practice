@@ -192,7 +192,7 @@ aqui eu vou botar um texto
 
 ```bash
 // bloco de código com sintaxe destacada
- tree -I "node_modules"
+ tree /F /A > tree_full.txt
 ```
 
 `ou assim`
@@ -204,11 +204,19 @@ aqui eu vou botar um texto
 
 resultado
 
-practice
-│ readme.md
-│ semana1.js
-└───assets
-imagem.jpg
+```
+📁practice
+|   📄readme.md
+|   📄semana1.js
+|   📄tree_full.txt
+|
+\---📁assets
+       🖼️ imagem.jpg
+```
+
+<div style="background-color:#e6ffe6; color:#006400; padding:10px; border-radius:8px;">
+<code>// if else</code>
+</div>
 
 ## 📎 Licença
 
